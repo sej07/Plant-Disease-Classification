@@ -53,6 +53,7 @@ Accuracy:
 <img width="614" height="458" alt="Screenshot 2025-09-05 at 6 33 10 PM" src="https://github.com/user-attachments/assets/d91b8157-805b-4ac0-990f-aba0141871ab" />
 
 Loss:
+
 <img width="606" height="466" alt="Screenshot 2025-09-05 at 6 33 19 PM" src="https://github.com/user-attachments/assets/18df5490-7d3b-4567-a5ad-585b7d8285d6" />
 
 
